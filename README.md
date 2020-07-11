@@ -17,7 +17,7 @@ Kotlin Learning
 8. Rx Android 
 9. Retrofit 
 10. Google Map Api 
-11. Volly 
+11. Volley 
 
 ### Language :page_with_curl:
 - English
