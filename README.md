@@ -9,15 +9,14 @@ Kotlin Learning
 ### Skills & Endorsements :computer:
 1. Java
 2. Gradel
-3. Ui/UX
-4. Adobe XD
-5. Git
-6. Firebase 
-7. Rx Java 
-8. Rx Android 
-9. Retrofit 
-10. Google Map Api 
-11. Volley 
+3. Git
+4. Firebase 
+5. Rx Java 
+6. Rx Android 
+7. Retrofit 
+8. Google Map Api 
+9. Volley 
+10. ...
 
 ### Language :page_with_curl:
 - English
