@@ -2,10 +2,6 @@
 
 #### I'm an Android Developer :punch:
 
-Java
-
-Kotlin Learning
-
 ### Skills & Endorsements :computer:
 1. Java
 2. Gradel
